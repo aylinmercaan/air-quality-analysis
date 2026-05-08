@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.fig
+*.mat
+*.mlx~
+slprj/
+codegen/
+
+# Data files
+*.csv
+data/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
